@@ -1,4 +1,4 @@
-USE collegeDB;
+USE CollegeDB;
 
 CREATE TABLE Course ( CourseID INT PRIMARY KEY, CourseName VARCHAR(50) NOT NULL, FacultyName
 VARCHAR(50), DepartmentName VARCHAR(100) );
